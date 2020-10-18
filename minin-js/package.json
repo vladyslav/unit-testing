@@ -1,0 +1,15 @@
+{
+  "name": "minin-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "axios": "^0.20.0",
+    "jest": "^26.5.2"
+  }
+}
